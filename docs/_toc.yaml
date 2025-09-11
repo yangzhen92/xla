@@ -76,6 +76,18 @@ toc:
     path: /xla/pjrt/cpp_api_overview
   - title: PJRT Examples
     path: /xla/pjrt/examples
+- title: API Reference
+  section:
+  - title: Overview
+    path: /xla/api
+  - title: Python: xla_client
+    path: /xla/api/python/xla_client
+  - title: Python: xla_shape
+    path: /xla/api/python/xla_shape
+  - title: Python: xla_literal
+    path: /xla/api/python/xla_literal
+  - title: Python: types_
+    path: /xla/api/python/types_
 - title: Using XLA in TensorFlow
   # These should be in alphabetical order unless otherwise noted.
   section:
